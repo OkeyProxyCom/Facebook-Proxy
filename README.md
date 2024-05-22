@@ -1,4 +1,4 @@
-![image](https://github.com/OkeyProxyCom/Facebook-Proxy/assets/150340973/0e4b6216-295b-4ac5-9830-11784b53a2c0)# Facebook-Proxy
+# Facebook-Proxy
 ![image](https://github.com/OkeyProxyCom/Facebook-Proxy/assets/150340973/1afbfa4f-d7cf-4631-a8a8-21e91abfd277)
 
 Utilizing Facebook Proxies for Optimal Data Scraping and Multi-Account Management.
